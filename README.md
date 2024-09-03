@@ -29,3 +29,14 @@ A passionate Software Developer with experiences in Java, Spring Boot, and data 
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
 
+
+
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
+![Microservices](https://img.shields.io/badge/Microservices-2496ED?style=for-the-badge&logo=microservices&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+![Apigee](https://img.shields.io/badge/Apigee-EF2D5E?style=for-the-badge&logo=apigee&logoColor=white)
+![Splunk](https://img.shields.io/badge/Splunk-00A3E0?style=for-the-badge&logo=splunk&logoColor=white)
+
