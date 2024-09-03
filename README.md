@@ -1,5 +1,7 @@
 ## Hi there 👋, I'm Dasaradh Sravanam
 
+![Profile views](https://komarev.com/ghpvc/?username=Dasaradh-sravanam&color=blue)
+
 A passionate Software Developer with experiences in Java, Spring Boot, and data engineering technologies.
 
 - 🔭 I’m currently working on Spring Boot controllers and enhancing my skills in microservices architecture.
@@ -25,6 +27,4 @@ A passionate Software Developer with experiences in Java, Spring Boot, and data 
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
-## Profile Views
-![Profile views](https://komarev.com/ghpvc/?username=Thirupathi-Sravanam&color=blue)
 
