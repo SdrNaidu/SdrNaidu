@@ -5,7 +5,8 @@
 A passionate Software Developer with experiences in Java, Spring Boot, and data engineering technologies.
 
 - 🔭 I’m currently working on Spring Boot controllers and enhancing my skills in microservices architecture.
-- 🌱 I’m currently pursuing certifications in IBM Data Warehouse Engineering and Google Cybersecurity.
+- 🚀 I’m also focusing on building scalable backend systems using Java and Spring Framework.
+- 💼 My recent projects involve API development, Microservices architecture, and cloud deployments using AWS.
 - 📄 All of my projects are available at [My LinkedIn Profile](https://www.linkedin.com/in/dasaradhsrav)
 - 📝 I regularly write articles on software development, focusing on Java, Spring Boot, and data management.
 - 💬 Ask me about **Java, Spring Boot, Microservices, Angular, AWS, SQL, and PL/SQL**
@@ -13,7 +14,7 @@ A passionate Software Developer with experiences in Java, Spring Boot, and data 
 - ⚡ Fun fact: I enjoy learning new technologies and applying them to solve real-world problems.
 
 ## Connect with me:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dasaradhsrav)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue)](https://www.linkedin.com/in/dasaradh-sravanam/)
 
 ## Languages and Tools:
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
