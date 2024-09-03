@@ -11,7 +11,7 @@ A passionate Software Developer with experiences in Java, Spring Boot, and data 
 - 📝 I regularly write articles on software development, focusing on Java, Spring Boot, and data management.
 - 💬 Ask me about **Java, Spring Boot, Microservices, Angular, AWS, SQL, and PL/SQL**
 - 📫 How to reach me: [dasaradh.s7@gmail.com](mailto:dasaradh.s7@gmail.com)
-- ⚡ Fun fact: I enjoy learning new technologies and applying them to solve real-world problems.
+- ⚡ Fun fact: I enjoy learning new technologies and applying them to solve real-world problems. **I'm calm yet talktive**
 
 ## Connect with me:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue)](https://www.linkedin.com/in/dasaradh-sravanam/)
