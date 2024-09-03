@@ -32,4 +32,15 @@ A passionate Software Developer with experiences in Java, Spring Boot, and data 
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
 
+[![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=java&logoColor=white)](https://www.oracle.com/java/)
+[![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=spring-boot&logoColor=white)](https://spring.io/projects/spring-boot)
+[![Microservices](https://img.shields.io/badge/Microservices-2496ED?style=flat-square&logo=microservices&logoColor=white)](https://martinfowler.com/articles/microservices.html)
+[![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white)](https://aws.amazon.com/)
+[![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)](https://www.docker.com/)
+[![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)](https://kubernetes.io/)
+[![Apigee](https://img.shields.io/badge/Apigee-EF2D5E?style=flat-square&logo=apigee&logoColor=white)](https://cloud.google.com/apigee)
+[![Splunk](https://img.shields.io/badge/Splunk-00A3E0?style=flat-square&logo=splunk&logoColor=white)](https://www.splunk.com/)
+
+
+
 
